@@ -1,0 +1,10 @@
+{
+  "name": "Flashlight",
+  "version": "1.0.0",
+  "description": "An offline flashlight with a futuristic HUD design. Adjustable brightness up to 100%, strobe, SOS, morse code and beacon modes, a colored screen light, auto-off timer, battery and heat guard, shake to toggle, quick tile and widget.",
+  "author": "Mohammad Mahfuz Rahman",
+  "ageRating": "3+",
+  "containsAds": false,
+  "category": "Tools",
+  "type": "app"
+}
